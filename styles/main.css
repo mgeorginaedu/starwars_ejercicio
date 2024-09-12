@@ -1,0 +1,30 @@
+.darkforce-member {
+    background-color: red;
+}
+
+.rebel-member {
+    background-color: blue;
+}
+
+#darthvader {
+    font-size: 24px; 
+}
+
+#lukeskywalker {
+    font-style: italic;
+}
+
+.soldier {
+    border-width: 3px;       /* Grosor del borde */
+    border-style: dotted;    
+    border-color: black;  
+    letter-spacing: 0.2rem;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform: uppercase;
+}
